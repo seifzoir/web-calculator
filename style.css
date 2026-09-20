@@ -1,6 +1,17 @@
 #calculator{
   font-family: Arial, sans-serif;
-  background-color: 
+  background-color: hsl(0, 0%, 15%);
+  border-radius: 15px;
+  max-width: 500px;
+  overflow: hidden;
+}
+#display{
+  width: 100%;
+  padding: 20px;
+  font-size: 5rem
+  text-align: left;
+  border: none;
+  
 }
 #keys{
   display: grid;
