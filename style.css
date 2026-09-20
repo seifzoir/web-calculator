@@ -40,8 +40,20 @@ button{
   cursor: pointer;
 }
 button:hover{
-  background-color: hsl(0, 0%, 40%)
+  background-color: hsl(0, 0%, 40%);
 }
 button:active{
-  background-color: hsl(0, 0%, 80%)
+  background-color: hsl(0, 0%, 80%);
 }
+.operator-btn{
+  background-color:  hsl(221, 100%, 50%);
+}
+
+.operator-btn:hover{
+  background-color:  hsl(221, 100%, 66%);
+}
+
+.operator-btn:active{
+  background-color:  hsl(221, 100%, 80%);
+}
+
